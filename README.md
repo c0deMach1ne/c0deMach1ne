@@ -1,16 +1,12 @@
-### Hi there 👋
+## 👋 Hakkımda
+Selam dostum! Buraları yakında elbet güncellerim. ^-^
 
-<!--
-**c0deMach1ne/c0deMach1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👉 Discord adresime katılın!
+<p align="center">
+    <a href="https://discord.gg/CTnnhRcF35"><img src="https://discordapp.com/api/guilds/815246886784860190/widget.png?style=banner1" alt="c0deMach1ne"></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 GitHub İstatistiklerim
+<p align="center">
+<a href=https://github.com/c0deMach1ne><img width="420" src=https://github-readme-stats.vercel.app/api?username=c0deMach1ne&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
+</p>
