@@ -1,9 +1,6 @@
-## 👋 Hakkımda
-Selam dostum! Buraları yakında elbet güncellerim. ^-^
-
 ## 👉 Discord adresime katılın!
 <p align="center">
-    <a href="https://discord.gg/Pp2UJ7Zvg2"><img src="https://discordapp.com/api/guilds/815246886784860190/widget.png?style=banner1" alt="c0deMach1ne"></a>
+    <a href="https://discord.gg/Pp2UJ7Zvg2"><img src="https://discordapp.com/api/guilds/1012025679669383228/widget.png?style=banner1" alt="Rich Game Studio"></a>
 </p>
 
 ## 👨‍💻 GitHub İstatistiklerim
